@@ -1,2 +1,2 @@
-# Extreme-Pod
-Extreme Pod fro Anki Vectors
+# Extreme Pod
+Extreme Pod for Anki Vectors ...
